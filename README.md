@@ -1,9 +1,20 @@
-# qa-using-vector-databases-lp-author
-Repository for liveProject: Q&A Using Vector Databases
+# augment-with-embeddings-lp-author
+Repository for liveProject: Augment with Embeddings
 
-The file documentation.zip contains the extracted data from the LangChain documentation website. Use it along LangChain's Readthedocs module.
+**Dataset**
 
-The file documentation.jsonl contains the already processed information extracted from the LangChain website. You will might want to use it in Milestone 2 if you had trouble completing Milestone 1.
+The file documentation.zip contains the raw LangChain documentation extracted from their website and consists of multiple subdirectories with html files inside.
+
+**Libraries and setup**
+
+Install all libraries via pip:
+
+BeautifulSoup4
+Tiktoken
+OpenAI
+pandas
+SciPy
+
 
 *Disclaimer*
 
