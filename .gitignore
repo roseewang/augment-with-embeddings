@@ -1,3 +1,4 @@
 .env
 apidocs/
 .DS_Store
+*.pyc
